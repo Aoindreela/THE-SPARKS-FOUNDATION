@@ -1,0 +1,17 @@
+body{
+    background: url(ABOUT_US.jpg);
+    background-size: cover;
+}
+.size{
+    font-size: 30px;
+    color: rgb(252, 240, 242);
+
+}
+.font{
+    font-size: 30px;
+    color: rgb(219, 221, 217);
+}
+.font1{
+    font-size: 25px;
+    color: rgb(229, 240, 239);
+}

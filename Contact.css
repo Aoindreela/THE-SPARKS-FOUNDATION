@@ -1,0 +1,11 @@
+.CONTACT{ 
+    font-size: 30px;
+}
+body{
+    background: url(contact.jpg);
+    background-size: cover;
+}
+.style{
+    font-style: italic;
+
+}
